@@ -90,3 +90,13 @@ p {
 .rounded {
   border-radius: 0.25rem;
 }
+@media (max-width:576px) {
+  .button{
+    display: block;
+    margin: 0 20px;
+    text-align: center;
+  }
+  h1{
+    font-size: 50px;
+  }
+}
