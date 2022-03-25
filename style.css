@@ -76,7 +76,7 @@ p {
   display: flex;
   justify-content: center;
   color: var(--primary-color);
-  font-size: 28px;
+  font-size: 22px;
   text-decoration: none;
 }
 
@@ -93,7 +93,7 @@ p {
 @media (max-width:576px) {
   .button{
     display: block;
-    margin: 0 20px;
+    margin: 0 auto;
     text-align: center;
   }
   h1{
